@@ -1,1 +1,2 @@
-# Neural-Network-and-Deep-Learning
+# Deep Learning Specialization on Coursera
+
